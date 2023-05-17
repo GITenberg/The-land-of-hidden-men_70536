@@ -1,0 +1,44 @@
+_repo: The-land-of-hidden-men_70536
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Krenkel, Roy G.
+    alias: Krenkel, Roy Gerald
+    birthdate: 1918
+    deathdate: 1983
+    gutenberg_agent_id: '26377'
+    url: http://www.gutenberg.org/2009/agents/26377
+    wikipedia: https://en.wikipedia.org/wiki/Roy_Krenkel
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: 'Wikipedia: https://en.wikipedia.org/wiki/Jungle_Girl_(novel)
+
+  Original title: Jungle girl'
+gutenberg_issued: '2023-04-12'
+identifiers:
+  gutenberg: '70536'
+language: en
+pgterms:marc905: 20230207073332burroughs
+pgterms:marc906: '1931'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bAce Books, Inc., $c1931, pubdate 1932.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jungles -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Explorers -- Fiction'
+- !lcsh 'Cambodia -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The land of hidden men
+url: http://www.gutenberg.org/ebooks/70536
