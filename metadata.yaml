@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26377'
     url: http://www.gutenberg.org/2009/agents/26377
     wikipedia: https://en.wikipedia.org/wiki/Roy_Krenkel
+covers:
+- cover_type: archival
+  image_path: 70536-h/images/bcover.jpg
 creator:
   author:
     agent_name: Burroughs, Edgar Rice
@@ -20,6 +23,8 @@ creator:
 description: 'Wikipedia: https://en.wikipedia.org/wiki/Jungle_Girl_(novel)
 
   Original title: Jungle girl'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70536#The-land-of-hidden-men
 gutenberg_issued: '2023-04-12'
 identifiers:
   gutenberg: '70536'
